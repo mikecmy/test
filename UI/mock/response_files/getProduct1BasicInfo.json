@@ -1,0 +1,29 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "productId": 1,
+        "productImage": "../../../public/img/feature-town-5.png",
+        "bannerImages": [
+            "../../../public/img/slider-01.jpg",
+            "../../../public/img/slider-02.jpg",
+            "../../../public/img/policy-bg.png"
+        ],
+        "productName": "香葱薄饼 香葱薄饼 100g/盒",
+        "desc": "促销语促销语促销语",
+        "productPrice": 15.8,
+        "productPriceOriginal": "",
+        "marketingPrice": 33,
+        "spec": "",
+        "priceUnit": "",
+        "stock": 230,
+        "shippingFreeLimit": 79,
+        "tag": [],
+        "promotion": [],
+        "remainingTime": ""
+    }
+}

@@ -1,0 +1,48 @@
+ {
+    "paging": {
+        "total": 22,
+        "pageIndex": 1
+    },
+    "publicwelfareList": [
+        {
+            "imgUrl": "http://img4.cache.netease.com/photo/0010/2017-02-20/CDO06R7E50CB0010.jpg",
+            "name": "我也不知道啊",
+            "tags": ["2017dsa","房屋"],
+            "describe": "hhjjghuyeuyrhkehkjrshekjshrk",
+            "id": 1,
+            "tel": 13116296870
+        },
+        {
+            "imgUrl": "http://img4.cache.netease.com/photo/0010/2017-02-20/CDO06R7E50CB0010.jpg",
+            "name": "我也不dsa知道啊",
+            "tags": ["2017das","房屋"],
+            "describe": "hhjjghuyeuyrhkehkjrshekjshrk",
+            "id": 1,
+            "tel": 13116296870
+        },
+        {
+            "imgUrl": "https://image.ricebook.com/business/19902225123192?imageView2/1/w/600/h/400/interlace/1/format/webp",
+            "name": "我也不知道啊",
+            "tags": ["2017dsa","房屋"],
+            "describe": "hhjjghuyeuyrhkehkjrshekjshrk",
+            "id": 1,
+            "tel": 13116296870
+        },
+        {
+            "imgUrl": "https://image.ricebook.com/business/19902225123237?imageView2/1/w/600/h/400/interlace/1/format/webp",
+            "name": "我也不知道啊",
+            "tags": ["2017dsa","房屋"],
+            "describe": "hhjjghuyeuyrhkehkjrshekjshrk",
+            "id": 1,
+            "tel": 13116296870
+        },
+        {
+            "imgUrl": "https://image.ricebook.com/business/19907043023515?imageView2/1/w/600/h/400/interlace/1/format/webp",
+            "name": "我也不知道啊",
+            "tags": ["2017dsa","房屋"],
+            "describe": "hhjjghuyeuyrhkehkjrshekjshrk",
+            "id": 1,
+            "tel": 13116296870
+        }
+    ]
+}

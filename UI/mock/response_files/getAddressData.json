@@ -1,0 +1,48 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": [{
+        "id": 1,
+        "userId": 1,
+        "name": "小一",
+        "phone": "13111111111",
+        "province": "上海",
+        "provinceId": 1,
+        "city": "上海",
+        "cityId": 10,
+        "region": "徐汇区",
+        "regionId": 15,
+        "address": "中漕路中漕路中漕路中漕路中漕路中漕路中漕路中漕路中漕路",
+        "isDefault": true
+    }, {
+        "id": 2,
+        "userId": 1,
+        "name": "小二",
+        "phone": "13222222222",
+        "province": "北京",
+        "provinceId": 2,
+        "city": "北京",
+        "cityId": 20,
+        "region": "徐汇区",
+        "regionId": 15,
+        "address": "中漕路中漕路中漕路中漕路中漕路中漕路中漕路中漕路中漕路",
+        "isDefault": false
+    }, {
+        "id": 3,
+        "userId": 1,
+        "name": "小三",
+        "phone": "13333333333",
+        "province": "深圳",
+        "provinceId": 3,
+        "city": "深圳",
+        "cityId": 30,
+        "region": "徐汇区",
+        "regionId": 15,
+        "address": "中漕路中漕路中漕路中漕路中漕路中漕路中漕路中漕路中漕路",
+        "isDefault": false
+    }]
+}

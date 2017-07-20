@@ -1,0 +1,15 @@
+{
+  "folders": {
+    "temp": "./temp",
+    "build": "./build"
+  },
+  "type_def": {
+    "namespace": "gz-test",
+    "swagger_def_url": "http://10.66.82.32:8088/swagger/docs/v1",
+    "output_file_name": "flow_type.js"
+  },
+  "logs": {
+    "forever": "forever"
+  }
+
+}

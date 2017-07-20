@@ -1,0 +1,56 @@
+{
+    "data": {
+        "paging": {
+            "pageSize": 10,
+            "pageIndex": 1
+        },
+        "museums": [{
+            "museumId": "1",
+            "seq": "1",
+            "title": "昆明",
+            "imageURL": "http://10.66.52.37:63333/static/1.jpg"
+        },
+        {
+            "museumId": "2",
+            "seq": "2",
+            "title": "蒙自",
+            "imageURL": "http://10.66.52.37:63333/static/2.jpg"
+        },
+        {
+            "museumId": "3",
+            "seq": "3",
+            "title": "大理",
+            "imageURL": "http://10.66.52.37:63333/static/3.jpg"
+        },
+        {
+            "museumId": "4",
+            "seq": "4",
+            "title": "西双版纳",
+            "imageURL": "http://10.66.52.37:63333/static/4.jpg"
+        },
+        {
+            "museumId": "5",
+            "seq": "5",
+            "title": "曲靖",
+            "imageURL": "http://10.66.52.37:63333/static/5.jpg"
+        },
+        {
+            "museumId": "6",
+            "seq": "6",
+            "title": "昭通",
+            "imageURL": "http://10.66.52.37:63333/static/6.jpg"
+        },
+        {
+            "museumId": "7",
+            "seq": "7",
+            "title": "玉溪",
+            "imageURL": "http://10.66.52.37:63333/static/7.jpg"
+        },
+        {
+            "museumId": "8",
+            "seq": "8",
+            "title": "丽江",
+            "imageURL": "http://10.66.52.37:63333/static/8.jpg"
+        }]
+    }
+}

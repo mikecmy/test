@@ -1,0 +1,11 @@
+{
+    "states": {
+        "state": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "userId": 1,
+        "sessionId": "adfaba23"
+    }
+}

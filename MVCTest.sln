@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "UI", "UI\UI.njsproj", "{A1BAC3D6-B05F-448D-8435-6C98A5D82C1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB3116E6-F006-46C4-AEAE-0DD8C2955F74}"
+	ProjectSection(SolutionItems) = preProject
+		project.json = project.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site", "Site\Site.csproj", "{5F4100A5-EB2C-4C60-8589-56024E0C10C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BAC3D6-B05F-448D-8435-6C98A5D82C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BAC3D6-B05F-448D-8435-6C98A5D82C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BAC3D6-B05F-448D-8435-6C98A5D82C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BAC3D6-B05F-448D-8435-6C98A5D82C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4100A5-EB2C-4C60-8589-56024E0C10C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4100A5-EB2C-4C60-8589-56024E0C10C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4100A5-EB2C-4C60-8589-56024E0C10C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4100A5-EB2C-4C60-8589-56024E0C10C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

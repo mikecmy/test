@@ -1,0 +1,37 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "featuredCity": {
+            "total": 4,
+            "images": [
+                {
+                    "path": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleType": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleId": "22434",
+                    "isJumbotron": false
+                },
+                {
+                    "path": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleType": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleId": "22435",
+                    "isJumbotron": true
+                },{
+                    "path": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleType": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleId": "22436",
+                    "isJumbotron": false
+                },
+                {
+                    "path": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleType": "https://img1.doubanio.com/view/status/raw/public/71aee1727adfb4a.jpg",
+                    "moduleId": "22437",
+                    "isJumbotron": false
+                }
+            ]
+        }
+    }
+}

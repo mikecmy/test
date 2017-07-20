@@ -1,0 +1,41 @@
+{
+    "isSucceed": true,
+    "status": "200",
+    "data": {
+        "userId": "111",
+        "orderId": "NB2134",
+        "orderState": "已支付",
+        "payType": "微信支付",
+        "AddressInfo": {
+            "name": "张大师",
+            "phone": 13111111111,
+            "province": "浙江省",
+            "city": "杭州市",
+            "region": "萧山区",
+            "address": "闻堰镇三江口村委大楼18栋2单元701号"
+        },
+        "productList": [
+            {
+                "productId": "001",
+                "productName": "云南诺邓火腿",
+                "desc": "四偶尔以暗牧场牛奶",
+                "productImage": "/public/img/test01.png",
+                "productPrice": 190.75,
+                "productQuantity": 30
+            },
+            {
+                "productId": "002",
+                "productName": "云南诺邓火腿",
+                "desc": "四偶尔以暗牧场牛奶",
+                "productImage": "/public/img/test02.png",
+                "productPrice": 190.90,
+                "productQuantity": 2
+            }
+        ],
+        "userMessage": "尽快发货 不要发漏了！",
+        "shippingFee": 10.00,
+        "totalPrice": 321.00,
+        "totalQuantity": 4,
+        "payment": 331.00
+    }
+}

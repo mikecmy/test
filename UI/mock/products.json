@@ -1,0 +1,12 @@
+{ 
+  "products": {
+    "latency": 200,
+    "verbs": ["get"],
+    "responses": {
+      "get": {
+        "httpStatus": 200,
+        "mockFile": "productList.json"
+      }
+    }
+  }
+}

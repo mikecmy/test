@@ -1,0 +1,22 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "id": 1,
+        "userId": 1,
+        "name": "大一",
+        "phone": "13333333333",
+        "province": "上海",
+        "provinceId": 1,
+        "city": "上海",
+        "cityId": 10,
+        "region": "徐汇区",
+        "regionId": 15,
+        "address": "漕西北路漕西北路漕西北路漕西北路",
+        "isDefault": true
+    }
+}

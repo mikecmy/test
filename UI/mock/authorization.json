@@ -1,0 +1,65 @@
+{
+   "authorization/sendVerificationCode": {
+     "latency": 200,
+     "verbs": ["post"],
+     "responses": {
+       "post": {
+         "httpStatus": 200,
+         "mockFile": "verificationCode.json"
+       }
+     }
+   },
+   "authorization/signIn": {
+     "verbs": ["post"],
+     "switch": ["phone", "password"],
+     "responses": {
+       "post": {
+         "httpStatus": 401,
+         "mockFile": "401.json"
+       }
+     },
+     "switchResponses": {
+       "phone13000passwordadmin": {
+         "httpStatus": 200,
+         "mockFile": "signIn.json"
+       }
+     }
+   },
+   "authorization/signUp": {
+     "latency": 200,
+     "verbs": ["post"],
+     "responses": {
+       "post": {
+         "httpStatus": 201,
+         "mockFile": "signUp.json"
+       }
+     }
+   },
+   "authorization/findPassword": {
+     "latency": 200,
+     "verbs": ["post"],
+     "responses": {
+       "post": {
+         "mockFile": "statusResult.json"
+       }
+     }
+   },
+   "authorization/modifyPassword": {
+     "latency": 200,
+     "verbs": ["post"],
+     "responses": {
+       "post": {
+         "mockFile": "statusResult.json"
+       }
+     }
+   },
+   "authorization/verifyOldPhone": {
+     "latency": 200,
+     "verbs": ["post"],
+     "responses": {
+       "post": {
+         "mockFile": "statusResult.json"
+       }
+     }
+   }
+ }

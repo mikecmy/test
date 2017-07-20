@@ -1,0 +1,149 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "categories": [
+            {
+                "title": "生鲜果蔬",
+                "typeId": "3000001",
+                "subCategories": [
+                    {
+                        "title": "鱼肉蛋奶",
+                        "typeId": "2000001",
+                        "subCategories": [
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            },
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "时令水果",
+                        "typeId": "2000002",
+                        "subCategories": [
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            },
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "粮油米面",
+                "typeId": "3000002",
+                "subCategories": [
+                    {
+                        "title": "鱼肉蛋奶",
+                        "typeId": "2000001",
+                        "subCategories": [
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            },
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "滋补养生",
+                "typeId": "3000003",
+                "subCategories": [
+                    {
+                        "title": "鱼肉蛋奶",
+                        "typeId": "2000001",
+                        "subCategories": [
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            },
+                            {
+                                "title": "猪肉",
+                                "typeId": "3000001"
+                            },
+                            {
+                                "title": "牛肉",
+                                "typeId": "3000002"
+                            },
+                            {
+                                "title": "羊肉",
+                                "typeId": "3000003"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

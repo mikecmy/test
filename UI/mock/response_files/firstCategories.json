@@ -1,0 +1,43 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "categories": [
+            {
+                "title": "推荐",
+                "typeId": "3000001"
+            },
+            {
+                "title": "生鲜果蔬",
+                "typeId": "3000002"
+            },
+            {
+                "title": "粮油米面",
+                "typeId": "3000003"
+            },
+            {
+                "title": "滋补养生",
+                "typeId": "3000004"
+            },
+            {
+                "title": "手工艺品",
+                "typeId": "3000005"
+            },
+            {
+                "title": "茶调冲饮",
+                "typeId": "3000006"
+            },
+            {
+                "title": "美酒佳酿",
+                "typeId": "3000007"
+            },
+            {
+                "title": "糕点零食",
+                "typeId": "3000008"
+            }
+        ]
+    }
+}

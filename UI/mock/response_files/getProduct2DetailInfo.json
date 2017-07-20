@@ -1,0 +1,40 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "detailInfo": [
+            "this is the fucking title",
+            "testing...again...",
+            "http://localhost:61111/public/img/feature-town-1.png",
+            "this is text c\nthis is text b",
+            "http://localhost:61111/public/img/feature-town-2.png",
+            "this is text a"
+        ],
+        "attributes": [{
+            "name": "品牌",
+            "value": "牛奶"
+        }, {
+            "name": "等级",
+            "value": "三等品"
+        }, {
+            "name": "品名",
+            "value": "有毒牛奶"
+        }, {
+            "name": "成分",
+            "value": "奶"
+        }, {
+            "name": "规格",
+            "value": "78＊34CM"
+        }, {
+            "name": "克重",
+            "value": "净重约250克"
+        }, {
+            "name": "颜色",
+            "value": "白色"
+        }]
+    }
+}

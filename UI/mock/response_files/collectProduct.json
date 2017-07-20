@@ -1,0 +1,68 @@
+{
+    "states":{
+        "statusCode":200,
+        "errCode":"0",
+        "errMsg":"这是消息"
+    },
+    "data":{
+        "CollectProductList":[
+            {
+                "collectPrivate":"1234",
+                "productId" : "1",
+                "productImage":"../../mock/imgs/1.jpg",
+                "bannerImages":[{"src":"./imgs/1.jpg"},{}],
+                "productName":"商品1",
+                "productDescription":"福建垃圾分类收集风景1",
+                "productCurrentPrice":50,
+                "productPriceOriginal":400,
+                "marketingPrice":250,
+                "spec":"120ml",
+                "priceUnit":"ml",
+                "stock":"987",
+                "productTags":["特价","秒杀"],
+                "promotion":"",
+                "remainingTime":""
+            },
+            {
+                "collectPrivate":"1234",
+                "productId" : "2",
+                "productImage":"../../mock/imgs/1.jpg",
+                "bannerImages":[{"src":"./imgs/1.jpg"},{}],
+                "productName":"商品2",
+                "productDescription":"福建垃圾分类收集风景2",
+                "productCurrentPrice":50,
+                "productPriceOriginal":400,
+                "marketingPrice":250,
+                "spec":"120ml",
+                "priceUnit":"ml",
+                "stock":"987",
+                "productTags":["特价"],
+                "promotion":"",
+                "remainingTime":""
+            },
+            {
+                "collectPrivate":"1234",
+                "productId" : "3",
+                "productImage":"../../mock/imgs/1.jpg",
+                "bannerImages":[{"src":"./imgs/1.jpg"},{}],
+                "productName":"商品3",
+                "productDescription":"福建垃圾分类收集风景2",
+                "productCurrentPrice":50,
+                "productPriceOriginal":400,
+                "marketingPrice":250,
+                "spec":"120ml",
+                "priceUnit":"ml",
+                "stock":"987",
+                "productTags":["特价"],
+                "promotion":"",
+                "remainingTime":""
+            }
+        ],
+        "paging":{
+                 "total":1,
+                 "pageSize":"5",
+                 "pageIndex":"1"
+        }
+    },
+
+}

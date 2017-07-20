@@ -1,0 +1,64 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": "hahaha"
+    },
+    "data": {
+        "products": [{
+            "productId": "001",
+            "productName": "莫斯利安",
+            "desc": "东半球最好喝的牛奶，才怪-_-",
+            "productImage": "",
+            "productPrice": 300.15,
+            "productQuantity": 1,
+            "productStatus": 4,
+            "stock": 100
+        }, {
+            "productId": "002",
+            "productName": "蒙牛",
+            "desc": "有毒的牛奶",
+            "productImage": "",
+            "productPrice": 500.00,
+            "productQuantity": 3,
+            "productStatus": 3,
+            "stock": 200
+        }, {
+            "productId": "003",
+            "productName": "哈哈哈",
+            "desc": "fuck you",
+            "productImage": "",
+            "productPrice": 10.00,
+            "productQuantity": 5,
+            "productStatus": 2,
+            "stock": 100
+        }, {
+            "productId": "001",
+            "productName": "莫斯利安",
+            "desc": "东半球最好喝的牛奶，才怪-_-",
+            "productImage": "",
+            "productPrice": 300.15,
+            "productQuantity": 1,
+            "productStatus": 4,
+            "stock": 100
+        }, {
+            "productId": "002",
+            "productName": "蒙牛",
+            "desc": "有毒的牛奶",
+            "productImage": "",
+            "productPrice": 500.00,
+            "productQuantity": 3,
+            "productStatus": 3,
+            "stock": 200
+        }, {
+            "productId": "003",
+            "productName": "哈哈哈",
+            "desc": "fuck you",
+            "productImage": "",
+            "productPrice": 10.00,
+            "productQuantity": 5,
+            "productStatus": 2,
+            "stock": 100
+        }]
+    }
+}

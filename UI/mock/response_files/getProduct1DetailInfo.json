@@ -1,0 +1,41 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "detailInfo": [
+            "this is title",
+            "testing...",
+            "http://localhost:61111/public/img/feature-town-5.png",
+            "this is text a",
+            "http://localhost:61111/public/img/feature-town-4.png",
+            "this is text b\nthis is text c",
+            "http://localhost:61111/public/img/feature-town-3.png"
+        ],
+        "attributes": [{
+            "name": "品牌",
+            "value": "薄饼"
+        }, {
+            "name": "等级",
+            "value": "一等品"
+        }, {
+            "name": "品名",
+            "value": "香葱薄饼"
+        }, {
+            "name": "成分",
+            "value": "饼干"
+        }, {
+            "name": "规格",
+            "value": "78＊34CM"
+        }, {
+            "name": "克重",
+            "value": "净重约550克"
+        }, {
+            "name": "颜色",
+            "value": "米色"
+        }]
+    }
+}

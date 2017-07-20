@@ -1,0 +1,88 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "paging": {
+            "total": 25,
+            "pageSize": 10,
+            "pageIndex": 1
+        },
+        "productList": [
+            {
+                "productId": "23555",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称,商品名称,商品名称,商品名称,商品名称,商品名称,",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "规格",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "235546",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称2,商品名称2",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "1L",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "23555",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称,商品名称,商品名称,商品名称,商品名称,商品名称,",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "规格",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "235546",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称2,商品名称2",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "1L",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "23555",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称,商品名称,商品名称,商品名称,商品名称,商品名称,",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "规格",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "235546",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称2,商品名称2",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "1L",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "23555",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称,商品名称,商品名称,商品名称,商品名称,商品名称,",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "规格",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            },
+            {
+                "productId": "235546",
+                "productImage": "ewgeawg.jpg",
+                "productName": "商品名称2,商品名称2",
+                "desc": "商品描述,商品描述,商品描述,商品描述,商品描述,商品描述,",
+                "spec": "1L",
+                "tag": ["溯源", "第二件半价"],
+                "productPrice": 19.90
+            }
+        ]
+    }
+}

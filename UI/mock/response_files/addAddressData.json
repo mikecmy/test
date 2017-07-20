@@ -1,0 +1,22 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "id": 1,
+        "userId": 1,
+        "name": "aaa",
+        "phone": "13111111111",
+        "province": "北京",
+        "provinceId": 1,
+        "city": "北京",
+        "cityId": 10,
+        "region": "东城区",
+        "regionId": 15,
+        "address": "aaa",
+        "isDefault": true
+    }
+}

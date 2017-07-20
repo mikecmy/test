@@ -1,0 +1,29 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "productId": 2,
+        "productImage": "../../../public/img/feature-town-1.png",
+        "bannerImages": [
+            "../../../public/img/routes-slider-01.png",
+            "../../../public/img/modes-slider-01.png",
+            "../../../public/img/travel-bg.png"
+        ],
+        "productName": "有毒牛奶 有毒牛奶 150g/瓶",
+        "desc": "促销语促销语促销语",
+        "productPrice": 5.5,
+        "productPriceOriginal": "",
+        "marketingPrice": 10,
+        "spec": "",
+        "priceUnit": "",
+        "stock": 100,
+        "shippingFreeLimit": 79,
+        "tag": [],
+        "promotion": [],
+        "remainingTime": ""
+    }
+}

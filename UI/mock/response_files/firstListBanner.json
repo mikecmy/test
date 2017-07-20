@@ -1,0 +1,30 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "total": 3,
+        "images": [
+            {
+                "path": "/dsfe/ewfege.png",
+                "goodsId": "a00001",
+                "moduleType": "/fwef/productList",
+                "moduleId": "223"
+            },
+            {
+                "path": "/dsfe/ewfege.png",
+                "goodsId": "a00002",
+                "moduleType": "/fwef/productList",
+                "moduleId": "223"
+            },
+            {
+                "path": "/dsfe/ewfege.png",
+                "goodsId": "a00003",
+                "moduleType": "/fwef/productList",
+                "moduleId": "223"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "states": {
+        "state": 200,
+        "errCode": 0,
+        "errMsg": null
+    },
+    "data": {
+        "userId": 1,
+        "userName": "xxx",
+        "sex": "男",
+        "birthdate":1434354353453
+    }
+}

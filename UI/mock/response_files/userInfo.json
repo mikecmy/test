@@ -1,0 +1,11 @@
+{
+    "statusCode": 0,
+    "errCode": 0,
+    "errMsg": "success",
+    "data": {
+        "userId": "admin",
+        "userName": "julie",
+        "sex": "男",
+        "birthdate": 684950400000
+    }
+}

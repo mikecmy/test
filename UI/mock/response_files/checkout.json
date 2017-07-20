@@ -1,0 +1,14 @@
+{
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": {
+        "addressId": "001",
+        "shippingFee": 10.00,
+        "shippingFreeLimit": 75.00,
+        "overloadProductIds": ["002", "003"],
+        "cart": [{"productId":"001","productName":"莫 斯利安","desc":"东半球最好喝的牛奶，才怪-_-","productImage":"","productPrice":30.15,"productPriceOriginal":60.3,"productQuantity":1,"productStatus":4,"stock":10,"tag":"seckill","productLimit":5,"remainingTime":"1488454080000"},{"productId":"002","productName":"蒙牛","desc":"有毒的牛奶","productImage":"","productPrice":50,"productPriceOriginal":100,"productQuantity":2,"productStatus":4,"stock":20,"tag":"seckill","productLimit":3,"remainingTime":"1488454080000"},{"productId":"003","productName":"光明","desc":"专业酸奶户","productImage":"","productPrice":80.75,"productPriceOriginal":161.5,"productQuantity":3,"productStatus":4,"stock":30,"tag":"boonProduct"}]
+    }
+}

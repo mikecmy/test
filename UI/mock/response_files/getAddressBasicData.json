@@ -1,0 +1,100 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": "0",
+        "errMsg": ""
+    },
+    "data": [{
+        "provinceId": "1",
+        "province": "北京",
+        "cityList": [{
+            "cityId": "11",
+            "city": "北京",
+            "regionList": [{
+                "regionId": "111",
+                "region": "东城区"
+            }, {
+                "regionId": "112",
+                "region": "西城区"
+            }, {
+                "regionId": "113",
+                "region": "崇文区"
+            }, {
+                "regionId": "114",
+                "region": "宣武区"
+            }, {
+                "regionId": "115",
+                "region": "朝阳区"
+            }, {
+                "regionId": "116",
+                "region": "海淀区"
+            }, {
+                "regionId": "117",
+                "region": "丰台区"
+            }, {
+                "regionId": "118",
+                "region": "石景山区"
+            }]
+        }]
+    }, {
+        "provinceId": "2",
+        "province": "上海",
+        "cityList": [{
+            "cityId": "21",
+            "city": "上海",
+            "regionList": [{
+                "regionId": "211",
+                "region": "黄浦区"
+            }, {
+                "regionId": "212",
+                "region": "徐汇区"
+            }, {
+                "regionId": "213",
+                "region": "长宁区"
+            }, {
+                "regionId": "214",
+                "region": "静安区"
+            }, {
+                "regionId": "215",
+                "region": "普陀区"
+            }, {
+                "regionId": "216",
+                "region": "虹口区"
+            }, {
+                "regionId": "217",
+                "region": "杨浦区"
+            }]
+        }]
+    }, {
+        "provinceId": "3",
+        "province": "云南",
+        "cityList": [{
+            "cityId": "31",
+            "city": "昆明",
+            "regionList": [{
+                "regionId": "311",
+                "region": "五华"
+            }, {
+                "regionId": "312",
+                "region": "西山"
+            }, {
+                "regionId": "313",
+                "region": "官渡"
+            }, {
+                "regionId": "314",
+                "region": "盘龙"
+            }]
+        }, {
+            "cityId": "32",
+            "city": "曲靖",
+            "regionList": [{
+                "regionId": "321",
+                "region": "麒麟区"
+            }, {
+                "regionId": "322",
+                "region": "沾益区"
+            }]
+        }]
+    }]
+}

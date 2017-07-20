@@ -1,0 +1,46 @@
+{
+    "isSucceed": true,
+    "states": {
+        "statusCode": 200,
+        "errCode": 0,
+        "errMsg": ""
+    },
+    "seckillProducts":[
+      {
+        "productId":88,
+        "productName": "韩国原产地进口，新鲜牛乳香",
+        "productPrice": 88,
+        "productDesc": "斯欧尔牧场牛奶 1L",
+        "productImage":"/public/img/feature-town-1.png",
+        "productOldPrice": 66,
+        "remainingTime": 180266,
+      },
+      {
+        "productId":88,
+        "productName": "韩国原产地进口，新鲜牛乳香",
+        "productPrice": 88,
+        "productDesc": "斯欧尔牧场牛奶 1L",
+        "productImage":"/public/img/feature-town-1.png",
+        "productOldPrice": 66,
+        "remainingTime": 280266,
+      },
+      {
+        "productId":88,
+        "productName": "韩国原产地进口，新鲜牛乳香",
+        "productPrice": 88,
+        "productDesc": "斯欧尔牧场牛奶 1L",
+        "productImage":"/public/img/feature-town-1.png",
+        "productOldPrice": 66,
+        "remainingTime": 66,
+      },
+      {
+        "productId":88,
+        "productName": "韩国原产地进口，新鲜牛乳香",
+        "productPrice": 88,
+        "productDesc": "斯欧尔牧场牛奶 1L",
+        "productImage":"/public/img/feature-town-1.png",
+        "productOldPrice": 66,
+        "remainingTime": 80266,
+      },
+    ]
+}
