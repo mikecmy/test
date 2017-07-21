@@ -1,4 +1,12 @@
 node_modules/
+Site/bin/**/*.*
+Site/obj/**/*.*
+UI/node_modules/**/*.*
+UI/temp/**/*.*
+UI/obj/**/*.*
+Utilities/bin/**/*.*
+Utilities/obj/**/*.*
 
-UI/node_modules/
-UI/temp
+*.dll
+*.pdb
+Site/obj/Debug/netcoreapp1.1/Site.AssemblyInfo.cs

@@ -28,7 +28,14 @@ namespace Site
         public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
-            services.AddMvc();
+            services.AddMvc().AddRazorOptions(options =>
+            {
+                options.ViewLocationFormats.Clear();
+                options.ViewLocationFormats.Add("/Views/{1}/{0}/{0}.cshtml");
+                options.ViewLocationFormats.Add("/Views/Shared/{0}.cshtml");
+
+                //rveo.ViewLocationExpanders.Insert(0, new CustomViewLocationExpander());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
