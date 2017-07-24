@@ -11,7 +11,7 @@ const mock_setting = require('../../Configurations/mock.js')
 const MOCK_FILE_CONFIG_NAME = path.resolve("temp/generated_mock_config.json")
 const MOCK_FILE_DIR = path.resolve("mock/")
 
-fs.writeFileSync(path.resolve("temp/generated_mock_confiag.json"), JSON.stringify(mock_setting))
+fs.writeFileSync(path.resolve("temp/generated_mock_config.json"), JSON.stringify(mock_setting))
 
 function generate_mock_file() {
   try {

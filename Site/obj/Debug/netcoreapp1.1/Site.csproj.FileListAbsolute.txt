@@ -1,8 +1,0 @@
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/bin/Debug/netcoreapp1.1/Site.deps.json
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/bin/Debug/netcoreapp1.1/Site.runtimeconfig.json
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/bin/Debug/netcoreapp1.1/Site.runtimeconfig.dev.json
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/bin/Debug/netcoreapp1.1/Site.dll
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/bin/Debug/netcoreapp1.1/Site.pdb
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/obj/Debug/netcoreapp1.1/Site.AssemblyInfo.cs
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/obj/Debug/netcoreapp1.1/Site.dll
-/Users/mikecmy/oneDrive/Projects/MVCTest/Site/obj/Debug/netcoreapp1.1/Site.pdb
