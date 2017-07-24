@@ -1,28 +1,31 @@
 ﻿ //default server prerender
 exoprt
 default {
-  index: {
-    path: '/'
-    entry: Home
-
-  },
-  home: {
-
-    prerender: 'Site/views/home'
-    entry: 'UI/views/home'
-  },
-  about: {
-
-    prerender: 'Site/views/about'
-    entry: 'UI/views/about'
-    server_render: false
-  },
-  contact: {
-
-    prerender: 'Site/views/contact'
-    entry: 'UI/views/contact'
-  },
-  contact: {
-    prerender: 'Site/views/error'
-  }
+    HomePage: {
+        path: '/'
+        entry: 'UI/views/home',
+        server_entry: 'Site/Views/Index/index.js'
+    },
+    Index: {
+        routes: '/Home/Index',
+        //如果不输入entry 默认为'UI/app/views/index
+        entry: 'UI/views/home',
+        //如果不输入server_entry 默认为'Site/Views/Index/index.js
+        server_entry: 'Site/Views/Index/index.js'
+    },
+    About: {
+        routes: 'Home/About'
+        entry: 'UI/views/about'
+        server_entry:  'Site/Views/About/About.js'
+    },
+    Contact: {
+        routes: 'Home/Contact'
+        entry: 'UI/views/contact'
+        server_entry:  'Site/Views/Contact/Contact.js'
+    },
+    Error: {
+        routes: 'Home/Error'
+        entry: 'UI/views/about'
+        server_entry:  'Site/Views/About/Error.js'
+    }
 }
